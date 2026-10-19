@@ -1,0 +1,12 @@
+These are ideas to what data to collect for the project:
+
+1. Pick a single distinct color palette (e.g., bright yellow or neon orange) and log every time a notable object of that color enters my visual field throughout the week.
+Context Variables: Object category, scale (tiny, medium, large), distance, movement state (stationary vs. moving).
+
+For this instance, I would choose the colour red. I've already started collecting data from Week 2.
+
+I could visualise the data like tree sprouts via circles. A thin outline circle represents small objects, a circle with a thick outline represents medium-sized objects, and fully painted circles represent big objects.
+
+Different colours would represent distance in how far I saw it from where I stood but not sure which colour.
+
+Whether its stationary or moving would be represented with small blue triangle in the middle of a circle, moving has it, stationary does not.
