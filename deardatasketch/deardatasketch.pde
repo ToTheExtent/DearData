@@ -35,7 +35,7 @@ void draw() {
         String dayName = pieces[1];                 // e.g. monday
         float sightings = Float.parseFloat(pieces[2]); // Total sightings value
         float stationary = Float.parseFloat(pieces[9]);
-        float moving = Float.parseFloat(pieces[10]);
+        float moving = Float.parseFloat(pieces[10]); //using parsefloat to extract numbers
 
         float circleDiameter = map(sightings, 30, 100, 25, 120);
         float posX = i * spacing;
